@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6285956409734'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6285956409734']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'XynnZ OFC'
+global.noown = '6285956409734'
+global.namebot = 'Xynnz Botz'
+global.nobot = '6282127124134'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
@@ -22,8 +22,8 @@ global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, lin
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
+global.dana = '085956409734'
+global.pulsa = '082127124134'
 global.gopay = '081360482998'
 global.shopay = '081360482998'
 global.ovo = '081360482998'
@@ -56,8 +56,8 @@ global.fpagedoc = '999'
 // WATERMARK  
 global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 XynnZ𝙊𝙛𝙘'
+global.wm3 = '⫹⫺ XynnZ Botz | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
