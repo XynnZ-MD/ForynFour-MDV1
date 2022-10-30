@@ -15,8 +15,8 @@ global.namebot = 'Xynnz Botz'
 global.nobot = '6282127124134'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
+global.instagram = 'https://instagram.com/hii.fahriiii_'
+global.github = 'https://github.com/XynnZ-MD'
 global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
 global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'https://saweria.co/Kricom'
